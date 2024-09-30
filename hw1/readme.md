@@ -17,10 +17,10 @@
 
 以下是源图像和变形后图像的对比：
 
-### 源图像
+### 仿射变换
 ![Source Image](0674e89f15384ba80263593c059e81d5.png)
 
-### 变形后的图像
+### RBF
 ![Warped Image](feb3e54c0d044afc4cb1bd8032e4a539.png)
 
 ## 注意事项
