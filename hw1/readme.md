@@ -18,7 +18,7 @@
 以下是源图像和变形后图像的对比：
 
 ### 源图像
-![Source Image](images/source.jpg)
+![Source Image](0674e89f15384ba80263593c059e81d5.png)
 
 ### 变形后的图像
 ![Warped Image](images/warped.jpg)
