@@ -21,7 +21,7 @@
 ![Source Image](0674e89f15384ba80263593c059e81d5.png)
 
 ### 变形后的图像
-![Warped Image](images/warped.jpg)
+![Warped Image](feb3e54c0d044afc4cb1bd8032e4a539.png)
 
 ## 注意事项
 
