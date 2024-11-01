@@ -44,7 +44,7 @@ val result
 
 ![Warped Image](result_5.png)
 
-![Warped Image](result_5.png)
+![Warped Image](c0b62d5c781a89f838aa40fcedaca6a.png)
 
 
 ## 注意事项
