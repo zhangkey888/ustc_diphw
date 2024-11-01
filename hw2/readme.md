@@ -20,10 +20,10 @@ Pix2Pix是一种用于图像到图像翻译任务的条件生成对抗网络（c
 
 泊松融合结果展示：
 
-### 仿射变换
-![Source Image](0674e89f15384ba80263593c059e81d5.png)
 
-### RBF
+![Source Image](852085dbe69cc973fb987b9b04a9188d.png)
+
+
 ![Warped Image](feb3e54c0d044afc4cb1bd8032e4a539.png)
 
 pix2pix模型训练结果展示
