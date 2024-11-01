@@ -24,15 +24,25 @@ Pix2Pix是一种用于图像到图像翻译任务的条件生成对抗网络（c
 ![Source Image](852085dbe69cc973fb987b9b04a9188d.png)
 
 
-![Warped Image](feb3e54c0d044afc4cb1bd8032e4a539.png)
+![Warped Image](9dfbd66a294ecb8b0ca3d8b8bfc9d7c9.png)
 
-pix2pix模型训练结果展示
+pix2pix模型训练结果展示,经过800步训练，loss降到0.3
 
-### 仿射变换
-![Source Image](0674e89f15384ba80263593c059e81d5.png)
+train result
+![Source Image](result_11.png)
 
-### RBF
-![Warped Image](feb3e54c0d044afc4cb1bd8032e4a539.png)
+![Source Image](result_33.png)
+
+val result
+![Warped Image](result_1.png)
+
+![Warped Image](result_2.png)
+
+![Warped Image](result_3.png)
+
+![Warped Image](result_4.png)
+
+![Warped Image](result_5.png)
 
 ## 注意事项
 
