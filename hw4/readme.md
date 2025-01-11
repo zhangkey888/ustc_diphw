@@ -124,7 +124,9 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 简化的3DGS实现的结果可以在`data/chair/checkpoints`文件夹中查看。将这些结果与原始3DGS实现的输出进行比较，以评估重建的性能和质量。
 
-![result](result_1.png)
+我们训练200个epoch，训练学习率定为0.01.得到结果如下，由于时间关系，只训练了chair的数据集
+
+![result](f14baad14264de7a76652e6923e1a4f5.mp4)
 ---
 
 ## 未来工作
