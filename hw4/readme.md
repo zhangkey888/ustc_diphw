@@ -14,15 +14,25 @@
 
 ## 需要的python库
 import torch
+
 import torch.nn as nn
+
 import torch.optim as optim
+
 from torch.utils.data import DataLoader
+
 from pathlib import Path
+
 import argparse
+
 import numpy as np
+
 from tqdm import tqdm
+
 from dataclasses import dataclass
+
 import cv2
+
 import os
 
 ## 流程概述
@@ -114,6 +124,7 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 简化的3DGS实现的结果可以在`data/chair/checkpoints`文件夹中查看。将这些结果与原始3DGS实现的输出进行比较，以评估重建的性能和质量。
 
+![result](result_1.png)
 ---
 
 ## 未来工作
