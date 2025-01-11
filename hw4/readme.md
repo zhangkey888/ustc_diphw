@@ -126,7 +126,7 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 我们训练200个epoch，训练学习率定为0.01.得到结果如下，由于时间关系，只训练了chair的数据集
 
-![result](https://github.com/zhangkey888/ustc_diphw/releases/tag/1.0.0/f14baad14264de7a76652e6923e1a4f5.mp4)
+![result](https://github.com/zhangkey888/ustc_diphw/releases/download/1.0.0/f14baad14264de7a76652e6923e1a4f5.mp4)
 ---
 
 ## 未来工作
